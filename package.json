@@ -1,0 +1,23 @@
+{
+  "name": "kristo-fm",
+  "version": "1.0.0",
+  "description": "Kristof Michiels's new place on the web",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admkrm/kristo-fm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admkrm/kristo-fm/issues"
+  },
+  "homepage": "https://github.com/admkrm/kristo-fm#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
